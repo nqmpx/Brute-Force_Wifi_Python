@@ -1,0 +1,25 @@
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Wi-Fi 6E AX211 160MHz
+    GUID                   : 874ee9e5-e8bf-46c1-bfea-f625d4db6442
+    Physical address       : 2c:7b:a0:6a:f5:09
+    Interface type         : Primary
+    State                  : connected
+    SSID                   : Shiro
+    BSSID                  : 24:0b:2a:4e:8c:e2
+    Network type           : Infrastructure
+    Radio type             : 802.11ac
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Connection mode        : Auto Connect
+    Band                   : 5 GHz  
+    Channel                : 100
+    Receive rate (Mbps)    : 260
+    Transmit rate (Mbps)   : 260
+    Signal                 : 62% 
+    Profile                : Shiro 
+
+    Hosted network status  : Not available
+
